@@ -1,0 +1,29 @@
+<style> @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+ </style>
+
+
+ .card-1{
+    width: 200px;
+height: 226px;
+
+background: #E0E0E0;
+ }
+ .picture{
+    width: 130px;
+    height: 130px;
+
+ }
+ .card-1{
+    width: 210px;
+height: 395px;
+font-family: 'Roboto';
+font-style: normal;
+background: #E0E0E0;
+margin-right: 25px;
+margin-bottom: 45px;
+ }
+ .container{
+    display: inline-flex;
+    flex-wrap: wrap;
+    max-width: 750px;
+ }
